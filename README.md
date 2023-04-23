@@ -1,4 +1,5 @@
 # Animated Webcam
 
 Animated webcam that tracks mouse and keyboard actions using Pygame
-https://user-images.githubusercontent.com/75947401/233859759-2ab812aa-8cb0-46ed-8d49-71c436dab823.mp4
+
+![image](https://user-images.githubusercontent.com/75947401/233859947-b20c37bc-0154-4fe0-be60-7dfdb3cfc8a5.png)
